@@ -13,6 +13,7 @@ The official Backend API for Scavanger Of The Year'24 Event Portal
 ## Tech Stack
 
 - Node.js
+- Express.js
 - MongoDB
 
 ## Features
@@ -32,7 +33,7 @@ The official Backend API for Scavanger Of The Year'24 Event Portal
 
 1.  Clone the Repository:
 
-    `git clone https://github.com/HarshitPG/MFC-SOTY-BE.git`
+    `git clone https://github.com/MFC-VIT/SOTY-Backend-24.git`
 
 2.  Install all the dependencies:
 
@@ -55,7 +56,7 @@ The official Backend API for Scavanger Of The Year'24 Event Portal
 
 <table>
 <tr align="center">
-<td>
+<td style="border: 2px solid grey; width: 170px; height: 170px">
 <a href="https://github.com/HarshitPG"><p align="center">
 <img src="https://avatars.githubusercontent.com/u/129543831?v=4" width="160" height="160" alt="Harsit"
 style="border: 2px solid grey; width: 180px; height: 180px" />
@@ -76,7 +77,7 @@ width="32" height="32" alt="LinkedIn" />
 
 # License
 
-Copyright © 2024, [MozillaFirefox-VIT](https://github.com/MFC-VIT), [Harshit P G](https://github.com/HarshitPG) and all other contributors.
+Copyright © 2024, [MozillaFirefox-VIT](https://github.com/MFC-VIT), [Harshit P G](https://github.com/HarshitPG) and all other contributors. Released under the [MIT License](LICENSE).
 
 <p align="center">
 Made with ❤️ by <a href="https://mozillavit.in/" target="_blank">MFC-VIT</a>
